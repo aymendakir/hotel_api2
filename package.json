@@ -10,7 +10,7 @@
     "dev": "nodemon server.js"
   },
   "engines": {
-    "node": "20.11.x"
+    "node": "v20.11.0"
   },
   "keywords": [],
   "author": "",
